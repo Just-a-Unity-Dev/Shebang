@@ -1,0 +1,1 @@
+gem install 'discordrb' -v 3.4.1
